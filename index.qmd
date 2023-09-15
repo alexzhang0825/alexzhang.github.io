@@ -2,9 +2,9 @@
 title: "MyWebsite"
 ---
 
-This is a Quarto website.
+This is Hongyang Zhang's website
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Now open for ad placement.
 
 ```{r}
 1 + 1
